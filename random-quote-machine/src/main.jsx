@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App.jsx'
+import AppWrapper from './App.jsx'
 import './index.css'
 
 
 
-ReactDOM.render(<App />, document.getElementById('page-title-div'));
+ReactDOM.render(<AppWrapper />, document.getElementById('page-title-div'));
