@@ -1,8 +1,7 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import AppWrapper from './App.jsx'
-import './index.css'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import AppWrapper from './App.jsx';
 
 
 
-ReactDOM.render(<AppWrapper />, document.getElementById('page-title-div'));
+ReactDOM.render(<AppWrapper />, document.getElementById('page'));
